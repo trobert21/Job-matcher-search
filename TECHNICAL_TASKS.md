@@ -41,4 +41,4 @@ Profile Visibility
 
  Filter search/profile views based on visibility rules
 
- Create toggle in
+ Create toggle in account settings to control profile visibility
